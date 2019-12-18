@@ -6,18 +6,16 @@ namespace RockPaperScissorsLogic {
 
     public class RPS
     {
-        public string Rock;
-        public string Paper;
-        public string Scissors;
-            
-        public RPS(string rock, string paper, string scissors)
+        public string p1;
+        public string p2;
+
+        public RPS(string p1Input, string p2Input)
         {
-            Rock = rock;
-            Paper = paper;
-            Scissors = scissors;
+            p1 = p1Input;
+            p2 = p2Input;
         }
 
-        public static string Game(string Rock, string Paper, string Scissors)
+        public string Game()
         {
             string rockVic = "Victory By ROCK";
             string paperVic = "Victory By PAPER";
@@ -26,17 +24,17 @@ namespace RockPaperScissorsLogic {
             string invalid = "Invalid input";
             
 
-        if (p1 == paper && p2 == rock || p2 == paper && p1 == rock)
+        if (p1 == "paper" && p2 == "rock" || p2 == "paper" && p1 == "rock")
             {
                 return paperVic;
             }
 
-         else if (p1 == rock && p2 == scissors || p2 == rock && p1 == scissors)
+         else if (p1 == "rock" && p2 == "scissors" || p2 == "rock" && p1 == "scissors")
             {
                 return rockVic;
             }
 
-         else if (p1 == paper && p2 == scissors || p2 == paper && p1 == scissors)
+         else if (p1 == "paper" && p2 == "scissors" || p2 == "paper" && p1 == "scissors")
             {
                 return scissorVic;
             }
@@ -46,7 +44,8 @@ namespace RockPaperScissorsLogic {
             }
             else
             {
-                return Invalid;
+                return invalid;
             }
     }   
+}
 }

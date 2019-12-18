@@ -1,0 +1,11 @@
+C:\Users\AGOLO\desktop\C-RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.2\Program.csprojAssemblyReference.cache
+C:\Users\AGOLO\desktop\C-RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.2\Program.csproj.CoreCompileInputs.cache
+C:\Users\AGOLO\desktop\C-RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.2\Program.AssemblyInfoInputs.cache
+C:\Users\AGOLO\desktop\C-RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.2\Program.AssemblyInfo.cs
+C:\Users\AGOLO\desktop\C-RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp2.2\Program.deps.json
+C:\Users\AGOLO\desktop\C-RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp2.2\Program.runtimeconfig.json
+C:\Users\AGOLO\desktop\C-RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp2.2\Program.runtimeconfig.dev.json
+C:\Users\AGOLO\desktop\C-RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp2.2\Program.dll
+C:\Users\AGOLO\desktop\C-RockPaperScissors\RockPaperScissors\bin\Debug\netcoreapp2.2\Program.pdb
+C:\Users\AGOLO\desktop\C-RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.2\Program.dll
+C:\Users\AGOLO\desktop\C-RockPaperScissors\RockPaperScissors\obj\Debug\netcoreapp2.2\Program.pdb
